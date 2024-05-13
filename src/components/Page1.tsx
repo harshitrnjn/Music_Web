@@ -11,7 +11,7 @@ const Page1 = () => {
       </h1>
       <p className="mb-7 w-[33%] text-center text-2xl text-white/65">
         Dive into our comprehensive music courses and transform your journey
-        today. Whether you're a beginner or looking to refine your skills, join
+        today. Whether you&apos;re a beginner or looking to refine your skills, join
         us to unlock your true potentional.
       </p>
       <ButtonUi/>
